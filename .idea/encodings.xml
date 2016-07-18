@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/base/6-12/Iteration.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/6-12/digui.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/6-12/generater.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/6-12/listComprehensions.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/6-12/slice.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/6-13/filter.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/6-13/map_reduce.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/6-16/decorator.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/6-16/returnFunc.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/6-16/sorted.py" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
